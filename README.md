@@ -1,6 +1,6 @@
 ### Hi there 👋
 https://github.com/Marksman7/TryingOutAHastingForTheFirstTime
-https://github.com/Marksman7/FisherYatesShuffleForAlorgithmsClass
+https://github.com/Marksman7/FisherYatesShuffleForAlorgithmsClass                      
 https://github.com/Marksman7/RadomShufflelignAssiament12
 https://github.com/Marksman7/RomanNumeralsCPLUSPLSU/blob/main/RomanNumeralsCPLusPLusClass
 <!--
