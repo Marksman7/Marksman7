@@ -5,6 +5,7 @@ Algorithms class = https://github.com/Marksman7/AlgorithmesClass
 
 
  Itch page (Solo Games) = https://deathscream.itch.io/
+ 
  Wix page = https://marksman006.wixsite.com/website/how-it-started-copy
 
 <!--
